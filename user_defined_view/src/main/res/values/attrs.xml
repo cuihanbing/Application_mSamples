@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="M_Top_Bar">
+        <attr name="title_Text" format="string"/>
+        <attr name="titleTextSize" format="dimension"/>
+        <attr name="titleTextColor_" format="color"/>
+
+        <attr name="leftTextColor" format="color"/>
+        <attr name="leftBackGround" format="color|reference"/>
+        <attr name="leftText" format="string"/>
+
+        <attr name="rightTextColor" format="color"/>
+        <attr name="rightBackGround" format="color|reference"/>
+        <attr name="rightText" format="string"/>
+    </declare-styleable>
+
+</resources>

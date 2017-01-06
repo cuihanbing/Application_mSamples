@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Application_mSamples.iml" filepath="$PROJECT_DIR$/Application_mSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Message_client_service/Message_client_service.iml" filepath="$PROJECT_DIR$/Message_client_service/Message_client_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThefirstRepository/ThefirstRepository.iml" filepath="$PROJECT_DIR$/ThefirstRepository/ThefirstRepository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user_defined_view/user_defined_view.iml" filepath="$PROJECT_DIR$/user_defined_view/user_defined_view.iml" />
+    </modules>
+  </component>
+</project>
