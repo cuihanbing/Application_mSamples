@@ -1,7 +1,0 @@
-#Tue Jan 10 11:09:26 CST 2017
-base.0=E\:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_104e3b1c03b0bf963eecdca8ccd956fe7a2151f8
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=E\:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_796b224d2e3731cfd5b7039d4bd616ff2647b0f9\\classes.dex
-base.1=E\:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_796b224d2e3731cfd5b7039d4bd616ff2647b0f9
-file.0=E\:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_104e3b1c03b0bf963eecdca8ccd956fe7a2151f8\\classes.dex

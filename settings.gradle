@@ -1,4 +1,4 @@
-include ':app', ':Message_client_service', ':user_defined_view', ':ThefirstRepository', ':first_app', ':app_bomb'
+include ':app', ':Message_client_service', ':user_defined_view', ':ThefirstRepository', ':first_app', ':app_bomb', ':Remote_C', ':消息推送'
 include ':androidEmail'
 include ':bmob_Sample_fast'
 include ':bmobIM_SDK'

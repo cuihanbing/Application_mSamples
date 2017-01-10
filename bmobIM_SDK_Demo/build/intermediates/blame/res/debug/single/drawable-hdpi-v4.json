@@ -52,12 +52,12 @@
         "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\drawable-hdpi\\chat_icon_voice5.png"
     },
     {
-        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_left1.png",
-        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\drawable-hdpi\\voice_left1.png"
-    },
-    {
         "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_voice_press.png",
         "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\drawable-hdpi\\chat_voice_press.png"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_left1.png",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\drawable-hdpi\\voice_left1.png"
     },
     {
         "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",

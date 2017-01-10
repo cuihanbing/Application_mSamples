@@ -8,12 +8,12 @@
         "source": "E:\\U_application\\Application_mSamples\\androidEmail\\src\\main\\res\\layout\\item.xml"
     },
     {
-        "merged": "E:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\merged\\debug\\layout\\receive_send.xml",
-        "source": "E:\\U_application\\Application_mSamples\\androidEmail\\src\\main\\res\\layout\\receive_send.xml"
-    },
-    {
         "merged": "E:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\merged\\debug\\layout\\send_email.xml",
         "source": "E:\\U_application\\Application_mSamples\\androidEmail\\src\\main\\res\\layout\\send_email.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\merged\\debug\\layout\\receive_send.xml",
+        "source": "E:\\U_application\\Application_mSamples\\androidEmail\\src\\main\\res\\layout\\receive_send.xml"
     },
     {
         "merged": "E:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\merged\\debug\\layout\\second.xml",

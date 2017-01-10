@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Message_client_service" />
+            <option value="$PROJECT_DIR$/Remote_C" />
             <option value="$PROJECT_DIR$/ThefirstRepository" />
             <option value="$PROJECT_DIR$/androidEmail" />
             <option value="$PROJECT_DIR$/app" />
@@ -19,6 +20,7 @@
             <option value="$PROJECT_DIR$/bmob_Sample_fast" />
             <option value="$PROJECT_DIR$/first_app" />
             <option value="$PROJECT_DIR$/user_defined_view" />
+            <option value="$PROJECT_DIR$/消息推送" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

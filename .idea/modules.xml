@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Application_mSamples.iml" filepath="$PROJECT_DIR$/Application_mSamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Message_client_service/Message_client_service.iml" filepath="$PROJECT_DIR$/Message_client_service/Message_client_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Remote_C/Remote_C.iml" filepath="$PROJECT_DIR$/Remote_C/Remote_C.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThefirstRepository/ThefirstRepository.iml" filepath="$PROJECT_DIR$/ThefirstRepository/ThefirstRepository.iml" />
       <module fileurl="file://$PROJECT_DIR$/androidEmail/androidEmail.iml" filepath="$PROJECT_DIR$/androidEmail/androidEmail.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
@@ -13,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/bmob_Sample_fast/bmob_Sample_fast.iml" filepath="$PROJECT_DIR$/bmob_Sample_fast/bmob_Sample_fast.iml" />
       <module fileurl="file://$PROJECT_DIR$/first_app/first_app.iml" filepath="$PROJECT_DIR$/first_app/first_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/user_defined_view/user_defined_view.iml" filepath="$PROJECT_DIR$/user_defined_view/user_defined_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/消息推送/消息推送.iml" filepath="$PROJECT_DIR$/消息推送/消息推送.iml" />
     </modules>
   </component>
 </project>
