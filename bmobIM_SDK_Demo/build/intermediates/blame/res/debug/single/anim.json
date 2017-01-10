@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\anim\\anim_chat_voice_right.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\anim\\anim_chat_voice_right.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottom.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\anim\\grow_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_top.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\anim\\shrink_from_top.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\anim\\anim_chat_voice_left.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\anim\\anim_chat_voice_left.xml"
+    }
+]

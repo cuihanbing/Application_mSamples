@@ -5,7 +5,13 @@
       <module fileurl="file://$PROJECT_DIR$/Application_mSamples.iml" filepath="$PROJECT_DIR$/Application_mSamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Message_client_service/Message_client_service.iml" filepath="$PROJECT_DIR$/Message_client_service/Message_client_service.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThefirstRepository/ThefirstRepository.iml" filepath="$PROJECT_DIR$/ThefirstRepository/ThefirstRepository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidEmail/androidEmail.iml" filepath="$PROJECT_DIR$/androidEmail/androidEmail.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_bomb/app_bomb.iml" filepath="$PROJECT_DIR$/app_bomb/app_bomb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmobIM_SDK/bmobIM_SDK.iml" filepath="$PROJECT_DIR$/bmobIM_SDK/bmobIM_SDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmobIM_SDK_Demo/bmobIM_SDK_Demo.iml" filepath="$PROJECT_DIR$/bmobIM_SDK_Demo/bmobIM_SDK_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmob_Sample_fast/bmob_Sample_fast.iml" filepath="$PROJECT_DIR$/bmob_Sample_fast/bmob_Sample_fast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first_app/first_app.iml" filepath="$PROJECT_DIR$/first_app/first_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/user_defined_view/user_defined_view.iml" filepath="$PROJECT_DIR$/user_defined_view/user_defined_view.iml" />
     </modules>
   </component>

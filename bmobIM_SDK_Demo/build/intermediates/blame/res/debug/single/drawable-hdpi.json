@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\about_mid_bg.9.png",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\drawable-hdpi\\about_mid_bg.9.png"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_conversation_press.9.png",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\drawable-hdpi\\list_conversation_press.9.png"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\about_top_bg.9.png",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\drawable-hdpi\\about_top_bg.9.png"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\contact_list_buddy_item_bg.9.png",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\drawable-hdpi\\contact_list_buddy_item_bg.9.png"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\base_dialog_bg.9.png",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\drawable-hdpi\\base_dialog_bg.9.png"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\base_horizontal_line.9.png",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\drawable-hdpi\\base_horizontal_line.9.png"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\base_horizontal_line_red.9.png",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\drawable-hdpi\\base_horizontal_line_red.9.png"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\about_bottom_bg.9.png",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\drawable-hdpi\\about_bottom_bg.9.png"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\location_default.9.png",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\drawable-hdpi\\location_default.9.png"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pop_bg_press.9.png",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\drawable-hdpi\\pop_bg_press.9.png"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_top_voice_bg.9.png",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\drawable-hdpi\\chat_top_voice_bg.9.png"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\top_bar.9.png",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\drawable-hdpi\\top_bar.9.png"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pop_bg.9.png",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\drawable-hdpi\\pop_bg.9.png"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_newmessage2.9.png",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\drawable-hdpi\\list_newmessage2.9.png"
+    }
+]

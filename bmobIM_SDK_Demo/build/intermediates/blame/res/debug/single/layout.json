@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_received_location.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\item_chat_received_location.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\common_header.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\common_header.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\common_header_button.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\common_header_button.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\item_add_friend.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\item_add_friend.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_recent.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\fragment_recent.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_sent_message.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\item_chat_sent_message.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_updateinfo.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\activity_set_updateinfo.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\include_chat_voice_short.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\include_chat_voice_short.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\v2_dialog_base.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\v2_dialog_base.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_received_image.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\item_chat_received_image.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_sent_voice.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\item_chat_sent_voice.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_info.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\activity_set_info.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\pop_showavator.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\pop_showavator.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\item_near_people.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\item_near_people.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\item_face_text.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\item_face_text.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\item_blacklist.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\item_blacklist.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_sent_image.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\item_chat_sent_image.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\include_chat_bottom_bar.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\include_chat_bottom_bar.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_near_people.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\activity_near_people.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_received_voice.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\item_chat_received_voice.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\common_header_rightbutton.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\common_header_rightbutton.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_received_message.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\item_chat_received_message.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\item_conversation.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\item_conversation.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\item_user_friend.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\item_user_friend.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_sent_location.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\item_chat_sent_location.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\item_show_picture.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\item_show_picture.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friend.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\activity_new_friend.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\include_emo_gridview.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\include_emo_gridview.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\include_chat_add.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\include_chat_add.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contacts.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\fragment_contacts.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showpicture.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\activity_showpicture.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_set.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\fragment_set.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_blacklist.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\activity_blacklist.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\include_action_bar.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\include_action_bar.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\include_new_friend.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\include_new_friend.xml"
+    },
+    {
+        "merged": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_contact.xml",
+        "source": "E:\\U_application\\Application_mSamples\\bmobIM_SDK_Demo\\src\\main\\res\\layout\\activity_add_contact.xml"
+    }
+]

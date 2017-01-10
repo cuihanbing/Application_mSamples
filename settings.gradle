@@ -1,1 +1,5 @@
-include ':app', ':Message_client_service', ':user_defined_view', ':ThefirstRepository'
+include ':app', ':Message_client_service', ':user_defined_view', ':ThefirstRepository', ':first_app', ':app_bomb'
+include ':androidEmail'
+include ':bmob_Sample_fast'
+include ':bmobIM_SDK'
+include ':bmobIM_SDK_Demo'
