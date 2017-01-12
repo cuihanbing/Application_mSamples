@@ -24,9 +24,6 @@ public class MyPushMessageReceiver extends BroadcastReceiver {
             Toast.makeText(context,"客户端收到推送内容："+intent.getStringExtra("msg"),Toast.LENGTH_SHORT).show();
         }
 
-
-
-
     }
 
 }
