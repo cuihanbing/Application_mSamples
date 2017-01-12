@@ -1,0 +1,7 @@
+#Thu Jan 12 16:20:58 CST 2017
+base.0=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d6821d82ed7d38daf2788e46f58f4f73d183af92
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_22b1aa3ab1c2c65baaed13f609206f9f56eaa917\\classes.dex
+base.1=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_22b1aa3ab1c2c65baaed13f609206f9f56eaa917
+file.0=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d6821d82ed7d38daf2788e46f58f4f73d183af92\\classes.dex

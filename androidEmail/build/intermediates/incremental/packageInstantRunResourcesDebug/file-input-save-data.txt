@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Thu Jan 12 16:20:56 CST 2017
+2.base=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\send_email.xml
+5.set=ANDROID_RESOURCE
+3.base=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_
+6.file=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main2.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\second.xml
+4.base=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_
+7.file=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\listmenu.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_
+8.file=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\item.xml
+4.set=ANDROID_RESOURCE
+6.base=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\sinalogo.jpg
+9.set=ANDROID_RESOURCE
+9.file=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+10.base=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_
+2.file=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_
+8.base=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\receive_send.xml
+3.set=ANDROID_RESOURCE
+1.base=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_
+9.base=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\U_application\\Application_mSamples\\androidEmail\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\welcome.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

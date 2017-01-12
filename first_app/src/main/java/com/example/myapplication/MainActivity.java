@@ -54,6 +54,25 @@ GameScore gameScore=new GameScore();
                 }
             }
         });
+
+
+final Animals animals=new Animals();
+        animals.setCat("猫");
+        animals.setDog("狗");
+        animals.setPig("猪");
+        animals.setFish("鱼");
+        animals.setobjectId("123456789");
+animals.save(new SaveListener<String>() {
+    @Override
+    public void done(String s, BmobException e) {
+        if(e==null){
+            Toast.makeText(getApplication(),"2创建成功"+animals.getObjectId(),Toast.LENGTH_SHORT).show();
+        }else{
+            Log.i("bmob","失败："+e.getMessage()+","+e.getErrorCode());
+        }
+    }
+});
+
     }
 
 }
